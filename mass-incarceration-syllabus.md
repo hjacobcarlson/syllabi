@@ -1,14 +1,16 @@
 ---
 title: "Causes and Consequences of Mass Incarceration"
-subtitle: "Special Topics: Criminal Justice (URB451/URB651)"
+subtitle: "Special Topics: Criminal Justice (URB 451)"
 author: "H. Jacob Carlson"
-date: "Fall 2019"
+date: "Spring 2020"
 ---
 
 * **Email:** howard.carlson@slu.cuny.edu
+* **Office:** 1822
+* **Office phone:** 646-313-8469
 * **Officehours:** Th 5:15pm - 6:15pm
-* **Classroom:** 19B, SLU
-* **Classhours:** Th 6:15-8:45 (9:35) p.m
+* **Classroom:** 19A, SLU
+* **Classhours:** Th 6:15 - 9:35 p.m
 
 
 # 1. Course Description
@@ -31,48 +33,50 @@ As well as:
 
 # 2. Textbook & Readings
 
-The following is a required textbook:
-
-* Barlow, Hugh D. and David Kauzlarich. 2010. *Explaining Crime: A Primer in Criminological Theory*. Rowman & Littlefield.
-
-
-The other readings will be posted for download on *Blackboard*. **Please print and bring your readings to class.**
+All readings will be posted for download on *CUNY Academic Commons*. **Please print and bring your readings to class.**
 
 # 3. Grading
 
 This is how each of the assignments contributes to the overall course grade:
 
 * Class participation (10%)
-* Online participation (10%)
 * Reading presentation (5%)
-* Current events paper (15%)
+* Reading responses (15%)
+* Current events paper (10%)
 * Debate (10%)
 * Final paper (30%)
 	- First draft (15%)
 	- Outline (5%)
 
-## Class participation & attendance
+## Class participation
 
 Your overall *class participation grade* is based on your participation and attendance. Good class participation involves coming to class prepared, attentive, and ready to speak up.
 
-You are allowed 1 free absence over the course of the semester. Each additional absence will lower your participation grade by 1%. More than 5 absences mandate a failing grade for the course, unless there are extenuating circumstances, such as:
-
-* An extended illness requiring hospitalization or visit to a physician (with documentation)
-* A family emergency, e.g. serious illness (with written explanation)
-* Observance of a religious holiday
-	* Students will not be penalized for absences due to religious observance, but they must notify me at the beginning of the semester.
-
 Students who must miss a class session should notify me by email ahead of time.
 
-## Online Participation
+## Weekly Reading Responses
 
-We will use *Blackboard* to have online classroom discussion. **Each student will be required to post on 5 separate classes throughout the semester.** Each post will be graded according to: 
+Reading carefully is an important skill. Just as important, is learning how to clearly communicate what you’ve read to others. In this class, your writing will serve as the primary "test" of how hard you are working to grasp the ideas presented. 
 
-* Thoughtfullness/critical thinking
-* Accuracy/course knowledge
-* Spelling/grammar
+**You must complete 5 of these over the course of the semester.** For each response, you are expected to write a response that critically analyzes the readings assigned. These papers should all roughly follow the same format. Below you will find an outline of what is expected -- both in terms of mechanics and in terms of content. Be sure to refer to it every week.
 
-An adequate post may be an original discussion, or can be a response to another student's post. Each post should be at least 1 paragraph long. Posts must be made prior to the class -- you can't go back and make posts on old discussions (for credit).
+**Mechanics**
+
+* Responses must be at least 300 words.
+* Responses must be typed or word-processed; double-spaced and in 12 point type.
+* Your name must appear, and it should have a title/headline.
+* Any direct quotations, paraphrases, or uses of others’ ideas (from either the readings assigned or elsewhere) must be cited in a consistent citation format of your choice.  
+* You must include a reference list.
+* Email me your response **before** the start of class, and post it to Academic Commons in the Forum section. These should focus on the readings, and not the class discussion.
+* You may only write one response per week. 
+
+**Content**
+
+* The first paragraph (or two) should summarize the key arguments in the assigned reading(s). The remainder of the paper should critically analyze the reading. This means:
+	* You should critically evaluate the arguments and theories presented, telling your reader what is good, what is bad, and what is missing from them. Give examples from readings to support your case.
+	* You should critically evaluate the evidence or the logical form of the argument that the authors present in support of their theoretical argument. Does the evidence support the claims? How? Why not? Give examples to support your case.
+	* You should provide a conclusion that indicates what is most valuable or most problematic about the arguments presented in the chapters. Give examples from readings to support your case.
+* You may either present your analysis as a series of separate paragraphs touching on each of these points or you may address them simultaneously. But your ultimate goal should be to present your own argument as a coherent, well-developed and logical whole.
 
 ## Reading Presentation
 
@@ -93,17 +97,15 @@ The current events paper, debate, and final paper (including first draft and out
 
 * *Undergraduate*
 	* **A** (93-100), **A-** (90-92.9), **B+** (87-89.9), **B** (83-86.9), **B-** (80-82.9), **C+** (77-79.9), **C** (73-76.9), **C-** (70-72.9), **D** (60-69.9), **F** (0-59.9)
-* *Graduate*
-	* **A** (93-100), **A-** (90-92.9), **B+** (87-89.9), **B** (83-86.9), **B-** (80-82.9), **C+** (77-79.9), **C** (70-76.9), **F** (0-59.9)
 
 # 4. Course Policies
 
 * Class starts on time, lateness will affect your participation grade.
-* Electronic devices (phones/laptops/tablets) off during class. If you have an special circumstance that requires you to use one, come discuss it with me ahead of time.
 * Check your email regularly.
 * If you have a question, check the syllabus or the assignment sheet first, before emailing me.
 * Please print and bring readings to class.
-* Do all the readings before class (Note, check the syllabus for the assinged page numbers - the .pdf files may contain more pages than are assigned).
+* Do all the readings before class (Note, check the syllabus for the assinged page numbers -- the .pdf files may contain more pages than are assigned).
+* Late assignments will receive -5% and an additional -1% for each additional day.
 
 *Note: I am not a lawyer. Nothing in this class constitutes legal advice. It's a course on various sociological and political issues related to the criminal justice system. For legal advice, one should consult an attorney or legal aid service.*
 
@@ -147,41 +149,67 @@ Questions? **Please contact the Writing Center at Michael.Rymer@slu.cuny.edu or 
 This is a *tentative* course schedule and subject to change.
 
 
-## Week 1, 8/29: Why do we incarcerate?
+## Week 1, 1/30: Why do we incarcerate?
 
 **Reading:** None
 
------
-
-_NOTE, NO CLASS ON 9/5, DUE TO MONDAY SCHEDULE_
-
------
-
-
-## Week 2, 9/12: Theories of criminal behavior (1)
-
-**Reading:** 
-
-* Barlow, Hugh D. and David Kauzlarich. 2010. *Explaining Crime: A Primer in Criminological Theory*. Rowman & Littlefield. **Chapters 3, 4, & 5**
 
 ---
 
-
-## Week 3, 9/19: Theories of criminal behavior (2)
-
-**Reading:**
-
-* Barlow, Hugh D. and David Kauzlarich. 2010. *Explaining Crime: A Primer in Criminological Theory*. Rowman & Littlefield. **Chapters 6, & 7**
-
----
-
-
-## Week 4, 9/26: History of crime policy (1)
+## Week 2, 2/6: The growth of mass incarceration (1)
 
 **Reading:** 
 
 * Alexander, Michelle. 2012. *The New Jim Crow: Mass Incarceration in the Age of Colorblindness*. Revised edition. New York: New Press.
 **pp. 58-60, pp. 95-112, Ch 5**
+
+
+---
+
+
+## Week 3, 2/13: The growth of mass incarceration (2)
+
+**Reading:**
+
+* Sharkey, Patrick. 2018. *Uneasy Peace: The Great Crime Decline, the Renewal of City Life, and the Next War on Violence*. New York: W.W. Norton & Company. **Ch 2** 
+* Gilmore, Ruth Wilson. 2007. *Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California*. Berkeley: University of California Press. **Chapter 1**
+* **Optional:**
+	* Gottschalk, Marie. 2014. *Caught: The Prison State and the Lockdown of American Politics*. Princeton: Princeton University Press. *pp. 1-7, Ch 8*
+
+
+---
+
+
+## Week 4, 2/20: Criminology (1)
+
+**Reading:** 
+
+* Bohm, Robert M. and Brenda L. Vogel. 2011. *A Primer on Crime and Delinquency Theory*. 3rd ed. Belmont, CA: Wadsworth. **Chapter 6, 7**
+
+---
+
+
+## Week 5, 2/27: Criminology (2)
+
+**Reading:**
+
+
+* Barlow, Hugh D. and David Kauzlarich. 2010. *Explaining Crime: A Primer in Criminological Theory*. Rowman & Littlefield. **Chapters 6**
+* National Institute of Justice. 2016. Five Things About Deterrence. Washington DC: U.S. Department of Justice.
+* **Optional:**
+	* Paternoster, Raymond. 2010. “How Much Do We Really Know about Criminal Deterrence.” *Journal of Criminal Law and Criminology* 100(3):765–824.
+	* Weisburd, David, David P. Farrington, and Charlotte Gill. 2017. “What Works in Crime Prevention and Rehabilitation: An Assessment of Systematic Reviews.” *Criminology & Public Policy* 16(2):415–49.
+
+
+
+---
+
+
+## Week 6, 3/5: Policing
+
+* Moskos, Peter. 2008. *Cop in the Hood: My Year Policing Baltimore’s Eastern District*. Princeton: Princeton University Press. **Ch1**
+* Kelling, George L. and James Q. Wilson. 1982. “Broken Windows.” *The Atlantic*, March.
+* Unger, David. 2018. "Carceral Unionism, the Labor Movement, and Impacted Communities." Manuscript. June 9. 
 
 
 **Assignments Due:**
@@ -191,41 +219,22 @@ _NOTE, NO CLASS ON 9/5, DUE TO MONDAY SCHEDULE_
 ---
 
 
-## Week 5, 10/3: History of crime policy (2)
-
-**Reading:**
-
-* Sharkey, Patrick. 2018. *Uneasy Peace: The Great Crime Decline, the Renewal of City Life, and the Next War on Violence*. New York: W.W. Norton & Company. **119-131, Ch 2** 
-* Gottschalk, Marie. 2014. *Caught: The Prison State and the Lockdown of American Politics*. Princeton: Princeton University Press. **pp. 1-7**, *Recommended: Ch 8*
-
----
-
-
-## Week 6, 10/10: Criminalization
+## Week 7, 3/12: Criminalization
 
 **Reading:**
 
 * United States Department of Justice, Civil Rights Division. 2015. *Investigation of the Ferguson Police Department*. Washington DC: United States Department of Justice, Civil Rights Division. **pp. 1-6**
-* Yim, Catherine Y., Daniel J. Losen, and Damon T. Hewitt. 2010. *The School-to-Prison Pipeline: Structuring Legal Reform*. New York University Press. **Introduction**
+* Kim, Catherine Y., Daniel J. Losen, and Damon T. Hewitt. 2010. *The School-to-Prison Pipeline: Structuring Legal Reform*. New York University Press. **Introduction**
 * Mead, Joseph W. and Sara Rankin. 2018. “Criminalizing Homelessness Doesn’t Work.” Citylab, June 20. https://www.citylab.com/equity/2018/06/how-not-to-fix-homelessness/563258/
 
 **Assignments Due:**
 
 * Debate day
 
----
-
-
-## Week 7, 10/17: Policing
-
-* Moskos, Peter. 2008. *Cop in the Hood: My Year Policing Baltimore’s Eastern District*. Princeton: Princeton University Press. **Ch1**
-* Unger, David. 2018. "Carceral Unionism, the Labor Movement, and Impacted Communities." Manuscript. June 9. 
-* Sharkey, Patrick. 2018. *Uneasy Peace: The Great Crime Decline, the Renewal of City Life, and the Next War on Violence*. New York: W.W. Norton & Company. **Ch 8**
-
 
 ---
 
-## Week 8, 10/24: Courts
+## Week 8, 3/19: Courts
 
 **Reading:** 
 
@@ -236,11 +245,11 @@ _NOTE, NO CLASS ON 9/5, DUE TO MONDAY SCHEDULE_
 
 **Assignments Due:**
 
-* 1 paragraph on debate topic
+* 1 paragraph on final paper topic
 
 ---
 
-## Week 9, 10/31: Prisons & Jails
+## Week 9, 3/26: Prisons & Jails
 
 **Reading:** 
 
@@ -248,7 +257,7 @@ _NOTE, NO CLASS ON 9/5, DUE TO MONDAY SCHEDULE_
 
 ---
 
-## Week 10, 11/7: Re-entry
+## Week 10, 4/2: Re-entry
 
 **Reading:** 
 
@@ -261,7 +270,15 @@ _NOTE, NO CLASS ON 9/5, DUE TO MONDAY SCHEDULE_
 
 ---
 
-## Week 11, 11/14: Recidivism
+_NOTE, NO CLASS ON 4/9, DUE TO SPRING BREAK_
+
+---
+
+_NOTE, NO CLASS ON 4/16, DUE TO SPRING BREAK_
+
+---
+
+## Week 11, 4/23: Recidivism
 
 
 * Mental health and prisons, in Cook County jail. No MH facilities. Personal https://www.youtube.com/watch?v=-fQ50a-m92Y
@@ -269,9 +286,8 @@ _NOTE, NO CLASS ON 9/5, DUE TO MONDAY SCHEDULE_
 
 ---
 
-## Week 12, 11/21: Effects of crime on communities
+## Week 12, 4/30: Effects of crime on communities
 
-*Perceptions of crime, Gentrification, how crime affects communities*
 
 **Reading:** 
 
@@ -279,11 +295,8 @@ _NOTE, NO CLASS ON 9/5, DUE TO MONDAY SCHEDULE_
 
 ---
 
-_NOTE, NO CLASS DUE TO THANKSGIVING_
 
----
-
-## Week 13, 12/5: Open topic
+## Week 13, 5/7: Women and Youth
 
 **Reading:** 
 
@@ -299,19 +312,18 @@ _NOTE, NO CLASS DUE TO THANKSGIVING_
 
 ---
 
-## Week 13, 12/12: Organized Crime & White Collar Crime
+## Week 14, 5/14: Organized Crime & White Collar Crime
 
 
 **Reading:** 
 
 * von Lampe, Klaus. 2016. *Organized Crime: Analyzing Illegal Activities, Criminal Structures and Extra-Legal Governance*. Los Angeles: SAGE. **pp. 101-106, 113-125**
-
 * Garrett, Brandon L. 2014. *Too Big to Jail: How Prosecutors Compromise with Corporations*. Cambridge: Harvard University Press. **Ch 1**
 
 
 ---
 
-## Week 15, 12/19: Solutions
+## Week 15, 5/21: Solutions
 
 **Reading:** 
 
@@ -322,5 +334,3 @@ _NOTE, NO CLASS DUE TO THANKSGIVING_
 **Assignments Due:**
 
 * Final paper
-
-
